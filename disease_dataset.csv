@@ -1,0 +1,16 @@
+fever,cough,headache,fatigue,body_pain,disease
+1,1,1,1,1,Flu
+1,1,0,1,0,Cold
+0,1,1,0,1,Migraine
+1,0,1,1,1,Dengue
+0,0,1,1,0,Typhoid
+1,1,1,0,1,Covid
+0,1,0,1,0,Allergy
+1,0,1,0,1,Malaria
+1,1,0,0,1,Flu
+0,1,1,1,0,Migraine
+1,0,0,1,1,Dengue
+0,0,0,1,1,Typhoid
+1,1,1,1,0,Covid
+0,1,0,0,1,Allergy
+1,0,1,1,0,Malaria
